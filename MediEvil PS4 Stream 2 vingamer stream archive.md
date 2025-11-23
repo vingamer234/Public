@@ -64,3 +64,18 @@ Original Stream Tracklist:
 03:38:23 The Enchanted Earth
 
 #medievil #medievilps4 #playstation4
+
+
+-- alt text --
+vingamer's Gaming stream video thumbnail (archive edit). image split into two halves.
+
+Text:
+(left-most) "vingamer's Gaming". vertical text logo.
+
+(right, top to bottom)
+"#2". "Archive".
+"MediEvil PS4"
+
+Image Description: (left) screenshot of MediEvil (2019, PlayStation 4), in-game cutscene of Sir Daniel Fortesque having just walked through an open wrought iron gate, the gate hinges on two stone pillars, one of which is visible. There is a foggy sky in the background, pine trees in the distance, and a leafy tree just outside the gate.
+
+(right) A forest with a dirt path, there are some leaves from plants along the path, and a few small rocks.

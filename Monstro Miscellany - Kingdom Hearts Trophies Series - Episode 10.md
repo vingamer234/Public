@@ -19,7 +19,7 @@ Website 🔗 https://vingamer.carrd.co
 Videos edited and created by vingamer's Gaming.  
 Commentary and gameplay by Andrea. (she/they)
 
-This part of the Kingdom Hearts Stream Series was originally streamed on September 30th, 2022.
+This part of the Kingdom Hearts Stream Series was originally streamed on [September 30th, 2022](https://youtube.com/live/YwzSRReBI5o).
 
 Kingdom Hearts HD 1.5 Remix (2013) video game developed by Square Enix for PS3.  
 Game compilations also available on PlayStation, Xbox, and PC (Epic Games Store / Steam)
@@ -55,4 +55,5 @@ End screen texts transcript:
 
 <span style="font-size: 9pt;"><span style="color: rgb(145, 70, 255);">Twitch,</span> <span style="color: #a57ce2;">Recent YouTube Panel</span></span>  
 • Thumbnail image / Link to YouTube. (December 31 2025). Kingdom Hearts, Monstro & Miscellany. #10 - Text: "vingamer's Gaming". "Recent YouTube Video".  
+
 • Link: https://www.youtube.com/watch?v=BxKGN5XrZGw

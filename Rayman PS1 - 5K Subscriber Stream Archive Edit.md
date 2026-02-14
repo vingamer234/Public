@@ -1,7 +1,7 @@
 ## [Rayman PS1 - 5K Subscriber Stream Archive](https://youtu.be/rKcs5l8jm2A)
 
 The original Rayman! Jump back to 2022, where we were playing a game so we could jump back to how it was in 2008... (minus the frustration, keeping it casual this time)  
-It's, uh, been a ride! 5,000 Subscribers, huh? ▼ More Below…
+It's, uh, been a ride! 5,000 subscribers, huh? ▼ More Below…
 
 / ‑ ‑ ‑ ‑ ‑  
 Follow me on Bluesky : https://bsky.app/profile/vingamergaming.bsky.social  
@@ -68,3 +68,14 @@ Original Stream Tracklist:
 <span style="font-size: 9pt;"><span style="color: rgb(145, 70, 255);">Twitch,</span> <span style="color: #a57ce2;">Recent YouTube Panel</span></span>  
 • Thumbnail image / Link to YouTube. (February 5 2026). Rayman. - Text: "vingamer's Gaming". "Recent YouTube Video".  
 • Link: https://www.youtube.com/watch?v=rKcs5l8jm2A
+
+<span style="font-size: 9pt;"><span style="color: rgb(198, 12, 50);">Shorts format</span>
+"Rayman World Map" art by Wojciech Trybus / wojtryb (https://www.artstation.com/wojtryb)
+https://www.deviantart.com/wojtryb/art/Rayman-World-Map-684697809
+Based on: https://raymanpc.com/wiki/script-en/images/a/a4/R1PS1WorldMap.png
+</br>
+<span style="color: rgb(198, 12, 50);"> Shorts image alt text:</span>
+Vertical video thumbnail for Rayman (1995) PlayStation video game. 
+Band Land world hub of levels, the level name is "Bongo Hills". (level 2-1) A musical themed world. This is level five overall in the game. The gameplay screenshot is overlaid in front of a purple Rayman 1 themed background. — 
+Screenshot shows the third part ("act") of the level. Rayman has reached the second checkpoint here. Multiple spiky blue hazards that have eyes are lined up near drum instrument platform ceiling, where the maraca rocket platform is stopped against. Rayman was just riding this maraca up and jumped off. The checkpoints in this game are depicted as photo cutout standees of a muscular surfer character, like Rayman (with no limbs). The standee has a cutout, where Rayman shows his head and smiles for a photo. * — 
+Backdrop Description: Blue sky fading to a small amount of pink, with light lavender-gray clouds. Green tall hills, one has a treble clef on its surface. Closer to the playable area are green bushy trees, that surround a brown harp instrument. — * More Info: The cutout picture has the character on a picture of a beach, holding a surfboard in one hand, sunglasses in the other, and a blue, single white striped, beach towel over the top of the torso's "shoulder". There's a palm tree in the cutout picture too. The photographer character is to the side of the standee holding their camera.</span>

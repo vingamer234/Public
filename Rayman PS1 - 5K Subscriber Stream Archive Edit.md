@@ -74,6 +74,8 @@ Original Stream Tracklist:
 https://www.deviantart.com/wojtryb/art/Rayman-World-Map-684697809
 Based on: https://raymanpc.com/wiki/script-en/images/a/a4/R1PS1WorldMap.png
 
+Rayman 1 font: https://raymanpc.com/wiki/en/List_of_Rayman_fonts
+
 <span style="color: rgb(198, 12, 50);"> Shorts image alt text:</span>
 Vertical video thumbnail for Rayman (1995) PlayStation video game. 
 Band Land world hub of levels, the level name is "Bongo Hills". (level 2-1) A musical themed world. This is level five overall in the game. The gameplay screenshot is overlaid in front of a purple Rayman 1 themed background. — 

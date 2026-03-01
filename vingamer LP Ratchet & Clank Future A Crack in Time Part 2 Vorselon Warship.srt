@@ -1,0 +1,1309 @@
+1
+00:01:04,200 --> 00:01:07,299
+Warning. Hostile ships detected.
+
+2
+00:01:07,299 --> 00:01:11,266
+Point of origin appears to be the same as
+Captain Qwark's nav-beacon.
+
+3
+00:02:40,833 --> 00:02:47,866
+Hello. Let's get back to
+saving Qwark and the fongoids
+
+4
+00:02:51,300 --> 00:02:52,333
+and take a moment out to—
+
+5
+00:02:52,333 --> 00:02:55,400
+Ratchet:
+Qwark, I'm at the ship. Where are they holding you?
+
+6
+00:02:55,400 --> 00:02:59,333
+Qwark: I don't know. It's a big cell with some sort of containment field, [sniff]
+
+7
+00:02:59,366 --> 00:03:02,633
+ugh, that smells like my high school gym locker.
+
+8
+00:03:02,800 --> 00:03:07,000
+>> Alright, maintain radio silence.
+I'll contact you when I'm inside.
+
+9
+00:03:07,800 --> 00:03:12,199
+>> I had to take a moment to address the fact that it's really warm in here.
+
+10
+00:03:13,199 --> 00:03:15,900
+And I also need caffeine.
+
+11
+00:03:16,099 --> 00:03:19,866
+I've actually had coffee for a while I just haven't been,
+
+12
+00:03:19,866 --> 00:03:21,766
+even drinking it.
+
+13
+00:03:23,366 --> 00:03:29,333
+Got a coffee warmer. So, we're good. But,
+
+14
+00:03:40,266 --> 00:03:44,366
+I don't want any tiredness to set in now. We haven't even got to Rayman yet.
+
+15
+00:03:47,699 --> 00:03:50,733
+Which will be in,
+
+16
+00:03:50,733 --> 00:03:52,400
+an hour.
+
+17
+00:03:53,833 --> 00:03:57,333
+We are starting Rayman in an hour.
+
+18
+00:03:59,300 --> 00:04:03,666
+Less than an hour it look- hour. Round it up. Round it up.
+
+19
+00:04:09,633 --> 00:04:15,199
+Ship Computer:
+Breach detected in starboard airlock.
+Dispatching engineer.
+
+20
+00:04:25,633 --> 00:04:29,166
+Vorselon: Attention troopers. We have just
+learned that the rebel Azimuth
+
+21
+00:04:29,166 --> 00:04:33,966
+has escaped our troops once again.
+I have spoken with Dr. Nefarious and
+
+22
+00:04:33,966 --> 00:04:40,666
+he has agreed to raise the bounty
+to 50,000 bolts. Dead or alive.
+
+23
+00:04:43,766 --> 00:04:47,233
+Enemy Trooper: I am an engineer, I fix stuff.
+
+24
+00:04:48,766 --> 00:04:52,500
+Nefarious doesn't want anyone else controlling the clock, he wants his‒
+
+25
+00:04:52,500 --> 00:04:53,333
+He wants him‒
+
+26
+00:04:53,333 --> 00:04:54,766
+it all to himself.
+>> Trooper: Fred, is that you?
+
+27
+00:04:54,766 --> 00:04:58,466
+Trooper: Azimuth has escaped. You owe me five bolts.
+
+28
+00:05:25,399 --> 00:05:29,233
+Ship Computer:
+Hyperspace fueling module, released.
+
+29
+00:05:29,399 --> 00:05:36,033
+Vorselon: Attention troopers: This is a reminder that no one is to execute the prisoners until we have extracted the
+
+30
+00:05:36,033 --> 00:05:38,466
+location of the rebel Azimuth.
+
+31
+00:05:38,466 --> 00:05:42,800
+Also, we will be serving fried weasel in the cafeteria.
+
+32
+00:05:43,800 --> 00:05:45,699
+>> Weasel?
+
+33
+00:05:57,233 --> 00:05:59,800
+...Cafeteria food is *not* very good.
+
+34
+00:06:16,100 --> 00:06:18,033
+Trooper: Ow, that hurts.
+
+35
+00:06:18,033 --> 00:06:20,933
+Sonic Eruptor detected.
+
+36
+00:06:24,666 --> 00:06:28,100
+Ship Computer: Containment grid disabled.
+
+37
+00:07:02,600 --> 00:07:06,133
+Ship Computer:
+Unauthorized personnel in cargo substation seven.
+
+38
+00:07:06,133 --> 00:07:11,100
+Ship Computer:
+Dispatching security team. 
+>> The rebel is here. The rebel is here. Alert. Alert.
+
+39
+00:07:33,566 --> 00:07:36,766
+Fresh off the assembly line at GrummelNet HQ.
+
+40
+00:07:44,199 --> 00:07:47,833
+Welcome to the GrummelNet weapon shop.
+
+41
+00:07:48,433 --> 00:07:51,933
+Yep, you get a discount if you played Tools of Destruction.
+
+42
+00:07:51,933 --> 00:07:54,300
+Save file for it.
+
+43
+00:08:29,000 --> 00:08:33,000
+Welcome back, chief.
+
+44
+00:08:39,700 --> 00:08:42,066
+You're full up, chief.
+
+45
+00:09:17,066 --> 00:09:20,333
+Trooper: The rebel is here. Alert. Alert.
+
+46
+00:11:39,633 --> 00:11:42,666
+Welcome back, chief.
+
+47
+00:12:09,799 --> 00:12:11,633
+Trooper: Destroy the rebel.
+
+48
+00:13:20,266 --> 00:13:23,133
+Got a holo-plan for the RYNO V.
+
+49
+00:13:38,200 --> 00:13:40,533
+Ratchet: 
+Qwark, give me a status update.
+
+50
+00:13:40,533 --> 00:13:43,799
+Qwark: This guy Vorselon means business.
+He says he'll kill us if we don't
+
+51
+00:13:43,799 --> 00:13:45,666
+give up Alister Azimuth.
+
+52
+00:13:45,666 --> 00:13:47,899
+>> Who is Alister Azimuth?
+
+53
+00:13:47,899 --> 00:13:50,333
+>> I don't know, some rebel.
+
+54
+00:13:50,333 --> 00:13:57,133
+>> Alright, well find out what you can. If he's an enemy of Nefarious, he might be a friend to us.
+
+55
+00:14:17,299 --> 00:14:24,200
+By the way, the pizza I had earlier was cauliflower crust pizza.
+
+56
+00:14:27,299 --> 00:14:30,399
+Tasty. A bit done though.
+
+57
+00:14:58,033 --> 00:15:01,033
+Wrong weapon.
+
+58
+00:15:01,033 --> 00:15:05,500
+Trying to level everything up to be three at the moment.
+
+59
+00:15:09,066 --> 00:15:20,666
+Coffee. Coffee! I feel I feel... I feel my eyelids
+getting somewhat heavy. So, not, not a good sign.
+
+60
+00:15:23,299 --> 00:15:31,633
+[Music]
+
+61
+00:16:09,700 --> 00:16:14,033
+That's something you you can't get rid of.
+
+62
+00:16:18,600 --> 00:16:24,399
+Oh yeah, there's supposed to be a teaser
+trailer for the The Super Mario Bros. Movie.
+
+63
+00:16:25,433 --> 00:16:29,766
+[Music]
+
+64
+00:16:56,433 --> 00:17:02,766
+I'm just so curious to see, what kind of uh.
+
+65
+00:17:02,766 --> 00:17:08,666
+How much uh the characters talk, I guess. You know.
+
+66
+00:17:09,000 --> 00:17:16,733
+What kind of style they go with. Is it going
+to be like wacky, happy-go-lucky sort of,
+
+67
+00:17:17,566 --> 00:17:26,099
+Minions stuff. Or are they going to be somewhat like
+Luigi's Mansion 3 and those those cutscenes.
+
+68
+00:17:28,200 --> 00:17:31,366
+Top level cutcenes. I'm I'm gonna play Luigi's Mansion 3,
+
+69
+00:17:31,366 --> 00:17:36,400
+I swear. I'm going to beat it this year for Halloween.
+
+70
+00:17:40,833 --> 00:17:44,599
+Probably not play the original Luigi's Mansion.
+
+71
+00:17:46,500 --> 00:17:48,966
+There goes the burp. Good.
+
+72
+00:17:49,099 --> 00:17:53,333
+I have nothing else to talk about. [laugh] Really.
+
+73
+00:18:20,833 --> 00:18:24,833
+I go in the right room...? No I'm not.
+I know I'm not going the right direction.
+
+74
+00:19:31,866 --> 00:19:34,000
+The second or the third time I've died
+
+75
+00:20:15,966 --> 00:20:19,433
+Yeah I died to this guy previously, on the, uh -
+
+76
+00:20:21,299 --> 00:20:22,400
+Quantos
+
+77
+00:20:22,799 --> 00:20:23,933
+- That planet.
+
+78
+00:20:50,466 --> 00:20:54,900
+Live streams are really a different tone compared to let's plays.
+
+79
+00:20:54,900 --> 00:20:59,733
+Trying to think how would I even let's play this game and not
+
+80
+00:20:59,733 --> 00:21:01,599
+Have dead air.
+
+81
+00:21:02,866 --> 00:21:04,433
+I don't know, hah
+
+82
+00:21:04,933 --> 00:21:09,400
+I guess I did it with A Cra‒, Tools of Destruction, and uh
+
+83
+00:21:10,733 --> 00:21:12,133
+Quest for Booty, didn't I?
+
+84
+00:21:13,766 --> 00:21:15,266
+Guess I edited it out
+
+85
+00:21:15,766 --> 00:21:19,633
+Ship Computer:
+Secondary hyperspace fueling module, released.
+
+86
+00:21:20,366 --> 00:21:23,333
+>> I always think the gameplay should be, uh
+
+87
+00:21:24,233 --> 00:21:26,833
+Shouldn't miss anything, with a let's play.
+
+88
+00:21:27,066 --> 00:21:32,533
+Ship Computer:
+Um... Third-iary hyperspace fueling module, released.
+
+89
+00:21:32,633 --> 00:21:36,733
+>> It's 'tertiary' computer voice. Tertiary.
+
+90
+00:21:39,366 --> 00:21:42,000
+You need to upgrade your AI
+
+91
+00:21:48,766 --> 00:21:51,066
+It- It's, uh
+
+92
+00:21:53,599 --> 00:21:54,766
+Ship Computer:
+Power failure detected in auxillary server room.
+
+93
+00:21:54,766 --> 00:21:57,500
+Power failure detected in auxillary server room.
+>> You're... You're serving weasles
+
+94
+00:21:57,633 --> 00:22:02,133
+at your cafeteria, I don't know. It's a little weird.
+
+95
+00:22:02,233 --> 00:22:02,799
+Vorselon:
+Attention troopers:
+
+96
+00:22:02,799 --> 00:22:04,266
+Vorselon:
+Attention troopers:
+>> Maybe weasles are really good if they're space weasles.
+
+97
+00:22:04,266 --> 00:22:06,466
+Vorselon:
+I don't want to point fingers,
+>> Maybe weasles are really good if they're space weasles.
+
+98
+00:22:06,466 --> 00:22:07,066
+Vorselon:
+But SOMEONE taped over last night's episode of Lance and Janice.
+
+99
+00:22:07,066 --> 00:22:08,966
+Vorselon:
+But SOMEONE taped over last night's episode of Lance and Janice.
+>> Get these
+
+100
+00:22:08,966 --> 00:22:10,366
+Vorselon:
+But SOMEONE taped over last night's episode of Lance and Janice.
+
+101
+00:22:10,366 --> 00:22:11,566
+>> All turned around
+
+102
+00:22:11,566 --> 00:22:16,133
+Vorselon:
+Will the trooper responsible please eject yourself out the airlock immediately.
+
+103
+00:22:16,133 --> 00:22:17,433
+Vorselon:
+Thank you.
+
+104
+00:22:22,900 --> 00:22:25,366
+>> The work environment sounds... lovely
+
+105
+00:22:26,599 --> 00:22:27,966
+Lovely.
+
+106
+00:22:36,866 --> 00:22:41,200
+I think the last time "Lance and Janice" was mentioned was Deadlocked, I believe -
+
+107
+00:22:41,333 --> 00:22:43,400
+Ship Computer:
+What floor, please?
+
+108
+00:22:43,933 --> 00:22:45,133
+>> going back.
+Ratchet: Um, 
+
+109
+00:22:45,366 --> 00:22:46,599
+Ratchet:
+Detention wing?
+
+110
+00:22:48,400 --> 00:22:50,466
+Ratchet:
+Wow. I can't believe that worked.
+
+111
+00:22:50,633 --> 00:22:51,900
+Ship Computer:
+What was that?
+
+112
+00:22:52,033 --> 00:22:52,833
+Ratchet:
+...Nothing!
+
+113
+00:22:52,933 --> 00:22:54,766
+Vorselon:
+Insolent creature!
+
+114
+00:22:54,766 --> 00:22:57,566
+Give me the location of the rebel Azimuth!
+
+115
+00:22:57,766 --> 00:22:59,900
+Fongoid:
+We don't know!!
+
+116
+00:22:59,900 --> 00:23:03,400
+That wasn't Azimuth, it was just a young lombax!
+
+117
+00:23:03,566 --> 00:23:06,166
+Vorselon:
+You are foolish to protect him.
+
+118
+00:23:06,166 --> 00:23:08,466
+Guards! Throw them in the brig.
+
+119
+00:23:08,466 --> 00:23:10,933
+If they haven't broken by the time we jump sectors,
+
+120
+00:23:10,933 --> 00:23:12,933
+eject them out the airlock!
+
+121
+00:23:13,400 --> 00:23:16,433
+Fongoid:
+Someone! Help us!
+
+122
+00:23:17,066 --> 00:23:19,099
+>> Guy doesn't know who Azimuth is
+
+123
+00:23:21,566 --> 00:23:22,566
+Shake my head,
+
+124
+00:23:23,033 --> 00:23:24,066
+shake my head.
+
+125
+00:23:26,400 --> 00:23:28,366
+A lot older than that, pfft. C'mon.
+
+126
+00:23:28,466 --> 00:23:31,133
+Snoop around chief. You've got a right to
+
+127
+00:23:32,033 --> 00:23:34,833
+You have a vague idea of who he is maybe
+
+128
+00:23:38,099 --> 00:23:39,966
+Nefarious knows who he is, maybe he just, like...
+
+129
+00:24:03,733 --> 00:24:05,133
+Qwark:
+We did it!
+
+130
+00:24:05,133 --> 00:24:07,933
+Everyone follow me! I'll get us outta here.
+
+131
+00:24:08,133 --> 00:24:11,166
+Ratchet: Stay quiet. We don't want to set off the alarm.
+
+132
+00:24:12,400 --> 00:24:13,900
+Ship Computer:
+Alert! Alert!
+
+133
+00:24:13,900 --> 00:24:16,766
+There is a code red in the detention wing.
+
+134
+00:24:16,766 --> 00:24:20,200
+Repeat - code red in the detention wing.
+
+135
+00:24:20,200 --> 00:24:22,233
+Mobilize all units.
+
+136
+00:24:25,666 --> 00:24:27,633
+Trooper: They must not leave the ship
+
+137
+00:24:30,133 --> 00:24:32,099
+Trooper: Alert Lord Vorselon.
+
+138
+00:24:38,500 --> 00:24:42,333
+Qwark:
+Alright, let's go. Remember the buddy system.
+
+139
+00:25:02,066 --> 00:25:05,833
+Having Qwark actually do something in this game;
+
+140
+00:25:06,166 --> 00:25:07,000
+Not gonna lie, that's kind of, uh
+
+141
+00:25:07,000 --> 00:25:09,700
+Not gonna lie, that's kind of, uh
+>> Qwark: The bridge is out— It's out!
+
+142
+00:25:09,933 --> 00:25:10,299
+Captain Qwark: What do we do?!
+
+143
+00:25:10,299 --> 00:25:11,866
+Captain Qwark: What do we do?!
+>> meaningful.
+
+144
+00:25:16,833 --> 00:25:21,133
+Has he ever done anything to help Ratchet,
+
+145
+00:25:24,133 --> 00:25:25,733
+in gameplay, huh?
+
+146
+00:25:29,900 --> 00:25:33,233
+I mean, I guess hitting him when he's was a monkey -
+
+147
+00:25:33,633 --> 00:25:36,733
+kinda funny, but doesn't really do anything of value.
+
+148
+00:25:41,433 --> 00:25:43,366
+Comic relief
+
+149
+00:25:44,700 --> 00:25:45,866
+Explosive?
+
+150
+00:25:46,766 --> 00:25:47,933
+Blew it up
+
+151
+00:25:50,366 --> 00:25:52,166
+Nope, don't need anything.
+
+152
+00:25:58,200 --> 00:25:59,599
+Qwark:
+We did it!
+
+153
+00:25:59,599 --> 00:26:02,400
+Everyone follow me! I'll get us outta here.
+
+154
+00:26:02,599 --> 00:26:05,633
+Ratchet: Stay quiet. We don't want to set off the alarm.
+
+155
+00:26:06,333 --> 00:26:07,666
+Ship Computer:
+Alert! Alert!
+
+156
+00:26:07,666 --> 00:26:10,700
+There is a code red in the detention wing.
+>> Trooper: They are escaping.
+
+157
+00:26:10,700 --> 00:26:14,133
+Repeat - code red in the detention wing.
+
+158
+00:26:14,133 --> 00:26:16,166
+Mobilize all units.
+
+159
+00:26:26,500 --> 00:26:30,333
+Qwark:
+Alright, let's go. Remember the buddy system.
+
+160
+00:26:49,200 --> 00:26:50,566
+Taunting me
+
+161
+00:26:50,566 --> 00:26:52,166
+with bolts
+
+162
+00:26:55,133 --> 00:26:58,066
+Qwark: The bridge is out— It's out!
+
+163
+00:26:58,066 --> 00:26:59,500
+What do we do?!
+
+164
+00:27:01,033 --> 00:27:03,433
+>> Throw the little one across it. Heh.
+
+165
+00:27:07,533 --> 00:27:10,133
+Trooper: Hey! Get your own prisoners.
+
+166
+00:27:22,266 --> 00:27:22,666
+Qwark: Ahem, yes — well, well done! Ha,
+
+167
+00:27:22,666 --> 00:27:24,433
+Qwark: Ahem, yes — well, well done! Ha,
+>> Oh no a big one again
+
+168
+00:27:24,433 --> 00:27:26,799
+Qwark: I almost had to hurl you all to safety myself.
+
+169
+00:27:26,866 --> 00:27:28,900
+>> Here goes nothin'!
+
+170
+00:27:29,366 --> 00:27:31,133
+Am I gonna die?
+
+171
+00:27:35,766 --> 00:27:37,833
+...Stand behind Qwark?
+
+172
+00:27:37,966 --> 00:27:39,466
+I don't want to risk it.
+
+173
+00:27:40,700 --> 00:27:42,366
+This barrier
+
+174
+00:27:50,466 --> 00:27:52,799
+I'm tempting fate by saying that
+
+175
+00:27:53,833 --> 00:27:55,066
+Ugh!
+
+176
+00:27:57,299 --> 00:27:58,299
+You keep shooting at the ground - it might help...
+
+177
+00:27:58,299 --> 00:28:00,799
+You keep shooting at the ground - it might help...
+>> Trooper: The fongoids are free.
+
+178
+00:28:01,933 --> 00:28:03,599
+Vorselon: They're heading for the escape vessel.
+
+179
+00:28:03,599 --> 00:28:05,233
+Shut down the auto launch module.
+
+180
+00:28:05,333 --> 00:28:06,866
+Stop- Mmm,
+
+181
+00:28:06,866 --> 00:28:12,533
+The quick select pause - I'm keeping it.
+Regardless of how many times I die 
+
+182
+00:28:14,700 --> 00:28:18,099
+It's just less annoying, I think, as a viewer
+
+183
+00:28:24,533 --> 00:28:24,866
+This pistol is a no-thought weapon
+
+184
+00:28:24,866 --> 00:28:27,966
+This pistol is a no-thought weapon
+>> Trooper: Lock down the detention wing.
+
+185
+00:28:30,233 --> 00:28:33,000
+Until you run out of ammo I guess
+
+186
+00:28:36,533 --> 00:28:44,500
+Mr. Zurkon: One little, two little dead little toasters.
+Four little, five little dead little toasters.
+
+187
+00:28:45,166 --> 00:28:47,233
+>> Clank was a toaster...
+
+188
+00:28:47,233 --> 00:28:49,166
+Clank was a toaster... [sad whimper]
+
+189
+00:28:50,700 --> 00:28:53,333
+He's not dead though. He's alive.
+
+190
+00:28:56,566 --> 00:28:58,099
+'K
+
+191
+00:28:59,433 --> 00:29:00,799
+Is that it? Except for the,
+
+192
+00:29:01,033 --> 00:29:03,500
+Oh- it was nothing.
+
+193
+00:29:09,733 --> 00:29:12,366
+I, I don't know if you can even come back through here
+
+194
+00:29:12,366 --> 00:29:15,266
+I haven't seen any gold bolts yet, so
+
+195
+00:29:16,433 --> 00:29:18,233
+Nothing hidden
+
+196
+00:29:51,366 --> 00:29:56,700
+I love bolt cranks, it lets me.
+Give a chance to look away from the game
+
+197
+00:30:26,466 --> 00:30:29,000
+>> Hello, bolt crank??
+
+198
+00:30:31,200 --> 00:30:37,500
+Clearly... I've never seen a bolt crank not work before.
+
+199
+00:30:40,333 --> 00:30:42,833
+>> Okay. I'm missing something.
+
+200
+00:30:43,400 --> 00:30:44,733
+Whew!
+
+201
+00:30:45,966 --> 00:30:47,566
+Qwark. What do I do here?
+
+202
+00:30:47,566 --> 00:30:48,433
+Qwark. What do I do here? Oh that.
+
+203
+00:30:49,400 --> 00:30:50,733
+Oh that's just for collectables.
+
+204
+00:30:50,733 --> 00:30:52,666
+Oh you release them first.
+
+205
+00:30:56,000 --> 00:30:57,766
+>> Systematic nonsense
+
+206
+00:31:02,299 --> 00:31:03,533
+Okay that opens the door
+
+207
+00:31:03,666 --> 00:31:06,700
+I guess that jettisons the cargo, uh the the
+
+208
+00:31:07,366 --> 00:31:07,833
+Excess car— and the,
+
+209
+00:31:07,833 --> 00:31:09,133
+Excess car— and the,
+>> Qwark: The onboard computer says
+
+210
+00:31:09,133 --> 00:31:11,033
+Qwark:
+there's a manual switch somewhere in that room -
+
+211
+00:31:11,033 --> 00:31:12,433
+Qwark:
+Check the grav-ramp.
+
+212
+00:31:12,533 --> 00:31:14,266
+>> the escape pod.
+
+213
+00:31:40,500 --> 00:31:41,900
+Vorselon: Nooo!
+
+214
+00:31:41,900 --> 00:31:45,233
+Vorselon:
+Computer, perform a bioscan across the entire ship.
+
+215
+00:31:45,233 --> 00:31:47,900
+Vorselon:
+I want to know who helped those creatures escape!
+
+216
+00:31:48,700 --> 00:31:53,033
+Ship Computer:
+Bioscan indicates one Lombax lifeform.
+
+217
+00:31:53,566 --> 00:31:56,766
+Vorselon: Azimuth! Welcome back.
+
+218
+00:31:56,766 --> 00:32:00,700
+Vorselon:
+I kept your old cell warm in the event you ever returned.
+
+219
+00:32:00,700 --> 00:32:06,466
+Vorselon: Computer, ready my best mech suit.
+I'll handle this personally.
+
+220
+00:32:09,000 --> 00:32:18,333
+>> You're a little blobby guy just sitting there
+at his console. In his fish tank, talkin' trash
+
+221
+00:32:19,933 --> 00:32:22,299
+Out of the mech suit
+
+222
+00:32:25,099 --> 00:32:29,633
+Suit‒ it's gotta, it's gotta
+conserve power to kill people, I guess
+
+223
+00:32:29,633 --> 00:32:33,599
+>> Aphelion, they've blocked my escape route. Meet me in the lower deck landing bay.
+
+224
+00:32:33,599 --> 00:32:36,733
+>> Affirmative. ETA: In 30 seconds.
+
+225
+00:32:44,033 --> 00:32:46,299
+Be with you shortly—
+
+226
+00:32:48,166 --> 00:32:50,433
+I'm gonna break some stuff
+
+227
+00:33:03,666 --> 00:33:06,799
+One bolt? C'mon.
+
+228
+00:33:20,833 --> 00:33:22,099
+Happy to meet you.
+
+229
+00:33:22,099 --> 00:33:23,266
+Here's a bomb.
+
+230
+00:33:33,966 --> 00:33:36,733
+Guess this area opens up some more
+
+231
+00:33:37,233 --> 00:33:37,966
+So if we do come back
+
+232
+00:33:37,966 --> 00:33:38,866
+So if we do come back
+>> Is your ar‒
+
+233
+00:33:39,133 --> 00:33:41,799
+Alright chief, what can we do you for?
+
+234
+00:33:42,900 --> 00:33:43,599
+Full.
+
+235
+00:33:43,599 --> 00:33:44,366
+>> —Arsenal antiquated? Your firepower fossilized?
+
+236
+00:33:44,366 --> 00:33:46,566
+—Arsenal antiquated? Your firepower fossilized?
+>> Vendor.
+
+237
+00:33:46,566 --> 00:33:50,466
+Don't be embarrassed on the battlefield with last year's weapon.
+
+238
+00:33:50,633 --> 00:33:53,066
+In a very important location
+
+239
+00:33:54,099 --> 00:33:56,966
+Yep, this looks like a boss arena.
+
+240
+00:34:16,900 --> 00:34:19,566
+>> I guess his armor's pretty cool
+
+241
+00:34:21,599 --> 00:34:24,099
+Let's see how his boss fight fairs
+
+242
+00:34:24,533 --> 00:34:27,500
+Vorselon: Amateur! Did you really expect that
+
+243
+00:34:27,500 --> 00:34:31,866
+to work? You'd think we'd never done dance this before.
+
+244
+00:34:35,933 --> 00:34:39,333
+Vorselon: Is that it? Is that everything!?
+>> Evidentally,
+
+245
+00:34:40,366 --> 00:34:44,666
+>> Azimuth actually meddled with Dr. Nefarious before
+
+246
+00:34:45,366 --> 00:34:48,099
+'cause he doesn't know who Ratchet is.
+
+247
+00:34:50,666 --> 00:34:53,800
+Guess they're both after the Clock, but
+
+248
+00:34:53,800 --> 00:34:57,366
+I thought that plot only started in this game
+
+249
+00:34:59,300 --> 00:35:00,333
+time-wise
+
+250
+00:35:00,500 --> 00:35:06,199
+Vorselon: You are messing with Lord Vorselon!
+Not even could Zordoom Prison could hold me!
+
+251
+00:35:16,500 --> 00:35:23,500
+Vorselon: Rgah! You're slower than last time, Azimuth.
+You wouldn't be taking it easy on Lord Vorselon, would you?
+
+252
+00:35:26,199 --> 00:35:28,800
+I should have killed you back on Lumos!
+
+253
+00:35:35,433 --> 00:35:37,699
+>> Krell Canyon, innit
+
+254
+00:35:38,733 --> 00:35:40,266
+Vorselon: Now you don't!
+
+255
+00:35:41,733 --> 00:35:43,199
+>> Sneaky, sneaky
+
+256
+00:35:45,400 --> 00:35:46,599
+[where you gonna] Stop!
+
+257
+00:35:47,666 --> 00:35:49,133
+Vorselon: Lucky shot!
+
+258
+00:35:49,766 --> 00:35:53,333
+Vorselon: Ohh, how I've waited for this.
+
+259
+00:35:54,433 --> 00:35:55,599
+>> That's annoying
+
+260
+00:35:56,133 --> 00:35:58,533
+This fight gives you ammo though, right?
+
+261
+00:36:01,366 --> 00:36:06,400
+Vorselon: No, I will not allow it!
+I will not be beaten by some worthless has-been!
+
+262
+00:36:09,133 --> 00:36:10,933
+>> I don't think you know who you're talking to,
+
+263
+00:36:10,933 --> 00:36:12,266
+this guy's saved two galaxies
+
+264
+00:36:12,266 --> 00:36:14,066
+this guy's saved two galaxies
+>> Vorselon: You're supposed to be the strongest of your kind.
+
+265
+00:36:14,066 --> 00:36:15,366
+Vorselon: You're supposed to be the strongest of your kind.
+>> Three galaxies, including this one.
+
+266
+00:36:15,366 --> 00:36:16,400
+Vorselon: What happened?
+>> Three galaxies, including this one.
+
+267
+00:36:16,400 --> 00:36:18,066
+Vorselon: Did you stop caring?
+
+268
+00:36:18,066 --> 00:36:21,099
+Or did your mind finally just snap?
+
+269
+00:36:21,099 --> 00:36:23,033
+Brah ha ha ha haha haa!
+
+270
+00:36:23,733 --> 00:36:25,199
+This cannot be happening!
+
+271
+00:36:25,199 --> 00:36:28,866
+Lord Vorselon will not fall to this terrible creature!
+
+272
+00:36:29,066 --> 00:36:30,733
+>> Now I need ammo
+
+273
+00:36:33,699 --> 00:36:36,066
+I like your death ray, it reminds me of Dr. Nefarious'
+
+274
+00:36:36,066 --> 00:36:37,233
+only less purple and less, awesome.
+
+275
+00:36:37,233 --> 00:36:39,099
+only less purple and less, awesome.
+>> Vorselon: [sneakily]  Heh, heh, heh heh heh.
+
+276
+00:36:39,099 --> 00:36:40,566
+Don't like it as much.
+
+277
+00:36:41,766 --> 00:36:46,433
+It's very... Reminiscent. For that it gets some points.
+
+278
+00:36:46,599 --> 00:36:48,099
+Oh I almost got hit!
+
+279
+00:36:48,099 --> 00:36:49,933
+>> Lord Vorselon: How is this possible?!
+
+280
+00:36:52,699 --> 00:36:54,800
+>> "This can't be happening!"
+
+281
+00:37:13,733 --> 00:37:19,300
+Qwark:
+Ratchet, great news. The Chief says Alister
+Azimuth lives on Torren IV in the Vela Sector.
+
+282
+00:37:19,300 --> 00:37:22,000
+I'm uploading coordinates to your ship now.
+
+283
+00:37:22,333 --> 00:37:27,533
+In the meantime, I'll stay with the fongoids and find out what else they know about Azimuth. Qwark out.
+
+284
+00:37:33,633 --> 00:37:37,266
+>> I gotta get some ammo because I don't have to die at all
+
+285
+00:38:01,233 --> 00:38:03,866
+That's what I wanted to do, but,
+
+286
+00:38:05,833 --> 00:38:08,800
+No boxes?
+
+287
+00:38:08,800 --> 00:38:11,699
+Last time I was here,
+
+288
+00:38:11,699 --> 00:38:14,000
+Last time I was here, there were boxes.
+
+289
+00:38:16,833 --> 00:38:23,666
+Last time I played, there were boxes respawning
+over and over. Ah. Ok. Alright, game.
+
+290
+00:38:26,366 --> 00:38:29,699
+Maybe that was just a bug.
+
+291
+00:38:33,933 --> 00:38:35,300
+'K
+
+292
+00:38:37,933 --> 00:38:42,366
+Maybe, are we full up on ammo, eh. I'm far from it.
+
+293
+00:39:04,966 --> 00:39:08,699
+Trooper: [over radio]
+Sir, one of the prisoners has requested to speak with you.
+
+294
+00:39:08,699 --> 00:39:11,133
+He appears to be willing to cooperate.
+
+295
+00:39:11,300 --> 00:39:12,633
+Vorselon: Patch it through.
+
+296
+00:39:12,900 --> 00:39:17,266
+Qwark: Uhh, hey, Mr. Vorselon? Uh, my name's Captain Qwark, maybe you've heard of me?
+
+297
+00:39:17,266 --> 00:39:22,333
+"Saviour of Solana"? Number 97 in "Kerwan's 100 Most Eligible Bachelors", ha ha.
+
+298
+00:39:22,466 --> 00:39:25,766
+[breathes in] Anyway— uh, you seem like a reasonable...
+
+299
+00:39:25,766 --> 00:39:27,766
+floating, head in a tank, so,
+
+300
+00:39:27,766 --> 00:39:31,400
+I was wondering if we could settle this without violence?
+
+301
+00:39:31,599 --> 00:39:33,233
+Vorselon: Insolent creature!
+
+302
+00:39:33,233 --> 00:39:35,966
+Your request has fallen on deaf ears.
+
+303
+00:39:35,966 --> 00:39:37,533
+The only future you may hope for
+
+304
+00:39:37,533 --> 00:39:39,500
+is a quick and merciful death,
+
+305
+00:39:39,500 --> 00:39:42,533
+following hours of unimaginable agony.
+
+306
+00:39:43,599 --> 00:39:46,866
+Qwark: Huh. So that's a "No", right?
+

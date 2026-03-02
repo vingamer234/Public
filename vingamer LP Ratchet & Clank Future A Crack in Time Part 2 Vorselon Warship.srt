@@ -10,7 +10,7 @@ Captain Qwark's nav-beacon.
 3
 00:02:40,833 --> 00:02:47,866
 Hello. Let's get back to
-saving Qwark and the fongoids
+saving Qwark and the Fongoids
 
 4
 00:02:51,300 --> 00:02:52,333
@@ -761,7 +761,7 @@ You keep shooting at the ground - it might help...
 177
 00:27:58,299 --> 00:28:00,799
 You keep shooting at the ground - it might help...
->> Trooper: The fongoids are free.
+>> Trooper: The Fongoids are free.
 
 178
 00:28:01,933 --> 00:28:03,599
@@ -1211,7 +1211,7 @@ I'm uploading coordinates to your ship now.
 
 283
 00:37:22,333 --> 00:37:27,533
-In the meantime, I'll stay with the fongoids and find out what else they know about Azimuth. Qwark out.
+In the meantime, I'll stay with the Fongoids and find out what else they know about Azimuth. Qwark out.
 
 284
 00:37:33,633 --> 00:37:37,266

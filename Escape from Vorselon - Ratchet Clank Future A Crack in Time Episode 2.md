@@ -96,12 +96,3 @@ frame-001: 100% health. against light background.
 frame-021‒frame-026: against white background. duplicates of frame 25.  
 frame-049: 50% health.  
 frame-089: ~0% health. against dark background.
-
-I noticed that the RPCS3 team has fixed the water bug that's been long plaguing the Ratchet & Clank PS3 titles.
-
-It may be worthwhile to see how well the game performs on my PC again. I'm not making any promises on continuing ACiT though.
-
-Axiom City was where I started having problems performance-wise, and Krell Canyon was a mess for me.  
-Krell Canyon does have a lot of water, though.
-
-But, I have briefly played the game again this week. And framerates were stable in some parts.

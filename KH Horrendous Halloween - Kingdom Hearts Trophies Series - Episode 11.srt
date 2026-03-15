@@ -1,0 +1,1725 @@
+1
+00:00:06,233 --> 00:00:15,683
+Hello. Oh. Is that too loud? Let me
+know. Turn it. Turn it down a little.
+
+2
+00:00:15,683 --> 00:00:19,750
+Wait, is my mixer showing?
+
+3
+00:00:19,750 --> 00:00:25,833
+Hello. Welcome to the night.
+
+4
+00:00:35,600 --> 00:00:43,750
+I have been editing some live stream thoughts.
+I'm getting a hang of where the audio should
+
+5
+00:00:43,750 --> 00:00:57,033
+uh live at, so to speak, for both a game and then
+
+6
+00:00:57,033 --> 00:01:02,399
+going to get my Windows on my desktop. All
+
+7
+00:01:02,399 --> 00:01:08,549
+when I unplug my desktop or my TV
+or anything, windows get moved.
+
+8
+00:01:10,233 --> 00:01:17,200
+Got a new packet.
+
+9
+00:01:17,200 --> 00:01:21,200
+I need to actually
+
+10
+00:01:21,200 --> 00:01:27,116
+turn off Windows sounds.
+
+11
+00:01:27,116 --> 00:01:35,033
+Keep a close eye on the volumes today for Kingdom Hearts because Kingdom Hearts. Loud. Uh they didn't
+
+12
+00:01:35,033 --> 00:01:48,633
+add volume controls. Correct me if I'm wrong. They
+didn't add volume controls till the PC version.
+
+13
+00:01:48,633 --> 00:01:59,283
+Okay, that hot key. I know the captioner
+always says hotkey. Hockey. Hot key. It
+
+14
+00:01:59,283 --> 00:02:05,200
+doesn't know the word hotkey.
+Okay, there we go. I got it.
+
+15
+00:02:28,483 --> 00:02:32,633
+All right, disembark.
+
+16
+00:03:29,833 --> 00:03:33,033
+Uhoh.
+
+17
+00:03:33,033 --> 00:03:35,349
+That isn't good.
+
+18
+00:03:37,283 --> 00:03:54,483
+If I absolutely can't save, I'll just
+not save. I guess it's that simple.
+
+19
+00:03:54,483 --> 00:03:59,199
+Cuz how save states work on
+our the PS3 emulator is it
+
+20
+00:03:59,199 --> 00:04:03,683
+actually stops the game to continue it later.
+
+21
+00:04:05,283 --> 00:04:15,116
+doesn't let you keep playing. At least not
+at the moment. That's not how it works.
+
+22
+00:04:15,116 --> 00:04:28,883
+I I need to organize OBS a little bit
+better. I can't find things sometimes.
+
+23
+00:04:28,883 --> 00:04:35,199
+Boy, they I know I could just not save
+just in case it does happen again,
+
+24
+00:04:35,199 --> 00:04:41,833
+But, Kingdom Hearts isn't the kind of game you want to do that with.
+
+25
+00:04:41,833 --> 00:04:51,683
+You could lose progress real easily if you do that.
+
+26
+00:04:51,683 --> 00:04:54,800
+Oh, cross your fingers.
+
+27
+00:04:56,483 --> 00:05:02,316
+I don't want to save over the one we have already.
+
+28
+00:05:02,316 --> 00:05:07,033
+Oh, it worked. It It worked. It worked.
+That was a fluke error. I don't know
+
+29
+00:05:07,033 --> 00:05:14,466
+why that happened. Maybe it's because I
+copied it from a different configuration.
+
+30
+00:05:49,199 --> 00:05:51,350
+Something big's supposed to happen.
+
+31
+00:05:56,483 --> 00:06:16,716
+And now allow me to introduce the master of
+terror, the king of nightmares, Jack Skellington.
+
+32
+00:06:16,716 --> 00:06:27,600
+Bravo, Jack. Bravo. Those ghosts will
+be a big hit at this year's Halloween.
+
+33
+00:06:27,600 --> 00:06:34,800
+Thank you. Thank you. But their movement
+still needs work. It's not scary enough.
+
+34
+00:06:34,800 --> 00:06:43,033
+I want to strike bone-chilling terror.
+I'm going to consult the doctor.
+
+35
+00:06:43,033 --> 00:06:47,683
+Then I'll go attend to the decorations.
+
+36
+00:07:11,116 --> 00:07:16,633
+Really odd entrance way here. Like
+the smallest room in the game.
+
+37
+00:07:21,600 --> 00:07:29,516
+I don't understand. Maybe the guidance system was
+damaged in the explosion. Nonsense. My devices
+
+38
+00:07:29,516 --> 00:07:41,350
+are always perfect. Oh, I've got it. Why, of
+course. The Heartless need a heart. Doctor,
+
+39
+00:07:41,350 --> 00:07:46,949
+do you think we can add a heart to that
+device? Certainly. A heart's not all that
+
+40
+00:07:46,949 --> 00:08:00,316
+complicated. Let's get to work. To make a
+heart, first take a container with a lock.
+
+41
+00:08:00,316 --> 00:08:04,199
+We need the key to this thing first!
+
+42
+00:08:05,283 --> 00:08:11,516
+That's, uh, Rob Paulsen. Jess Harnell?
+
+43
+00:08:16,350 --> 00:08:19,699
+I think it's Rob Paulsen because he does voice in Birth By Sleep
+
+44
+00:08:21,416 --> 00:08:23,350
+I don't know Finkelstein
+
+45
+00:08:25,916 --> 00:08:29,100
+Not really.
+
+46
+00:08:32,233 --> 00:08:41,033
+My! That was amazing. Uh, and you are
+Sora. Well done, Sora. I'd like you to
+
+47
+00:08:41,033 --> 00:08:47,433
+be a part of this year's Halloween. What's this
+Heartless doing here? Oh, the Heartless came
+
+48
+00:08:47,433 --> 00:08:53,350
+to town just recently. What's frustrating
+is I can't get them to dance with me. So,
+
+49
+00:08:53,350 --> 00:09:01,033
+the doctor and I are trying to improve the
+guidance system. He's quite a genius. Okay,
+
+50
+00:09:01,033 --> 00:09:09,350
+doctor. Let's continue. The ingredients
+for a heart. Pulse. Emotion. Terror.
+
+51
+00:09:09,350 --> 00:09:19,416
+Fear, hope, and despair. Mix them
+all together, and we have a heart.
+
+52
+00:09:39,916 --> 00:09:45,516
+It failed.
+
+53
+00:09:45,516 --> 00:09:53,116
+Maybe we're missing some
+ingredients. Let's try adding memory.
+
+54
+00:09:53,116 --> 00:10:04,233
+Sally! Sally! Good-for-nothing girl. Don't know
+why I bothered creating her. Sally's got the
+
+55
+00:10:04,233 --> 00:10:14,783
+memory we need. See if you can track her down. No
+problem. Sora, would you like to come along? Sure.
+
+56
+00:11:13,033 --> 00:11:26,799
+Jack! Jack! We have a major crisis. The Heartless
+are completely out of control. We can't stop them.
+
+57
+00:11:26,799 --> 00:11:31,033
+Hmm... Maybe our experiment triggered
+something. Everything will be fine,
+
+58
+00:11:31,033 --> 00:11:36,000
+Mayor. You have nothing to worry about.
+
+59
+00:11:48,733 --> 00:11:50,316
+Take that!
+
+60
+00:11:50,316 --> 00:11:51,533
+Come on!
+
+61
+00:12:11,283 --> 00:12:12,783
+C'mon!
+
+62
+00:12:21,516 --> 00:12:23,766
+C'mon!
+>> Come on
+
+63
+00:12:37,600 --> 00:12:41,283
+Hurricane Blast
+
+64
+00:12:41,283 --> 00:12:45,433
+Check out our new abilities if we have any
+
+65
+00:12:45,433 --> 00:12:49,683
+Can't.
+
+66
+00:12:49,683 --> 00:12:55,116
+Have an AP Up?
+
+67
+00:12:55,116 --> 00:13:00,716
+Defense Up.
+
+68
+00:13:00,716 --> 00:13:06,549
+You usually always check to see who
+has the lowest event. Give it to them.
+
+69
+00:13:15,283 --> 00:13:18,183
+Got a torn page back there.
+
+70
+00:13:18,183 --> 00:13:25,283
+I'm going to skip even though we're doing a a uh trophy uh run, this time around
+
+71
+00:13:25,283 --> 00:13:32,233
+I'm going to skip Winnie the Pooh
+world because, Hundred Acre Wood, even if we could
+
+72
+00:13:35,200 --> 00:13:41,433
+Even if we wanted to, you know. I don't think
+it's the most fun Winnie the Pooh world. So,
+
+73
+00:13:41,433 --> 00:13:49,433
+we're going to skip this. We might do the special
+the secret bosses at the end of the the series,
+
+74
+00:13:49,433 --> 00:14:01,116
+though. I think that'd be fun to see cuz this
+is a low-level sort of run kind of so that be fun
+
+75
+00:14:01,116 --> 00:14:13,350
+and I probably alluded to alluded to it
+but I've never done the uh unknown fight
+
+76
+00:14:13,350 --> 00:14:19,683
+except for level 99 Sora so it was really
+easy so I'd like to see what it's like
+
+77
+00:14:21,700 --> 00:14:23,183
+When you're underleveled.
+
+78
+00:14:27,916 --> 00:14:30,483
+I'm not I don't even have an idea of how the
+
+79
+00:14:30,483 --> 00:14:44,000
+fight goes really properly because I
+just annihilated uh Unknown Figure.
+
+80
+00:14:55,916 --> 00:15:00,316
+Yeah, I kind of want to take
+off slapshot for a hurricane,
+
+81
+00:15:00,316 --> 00:15:13,433
+but we need more AP. Hurricane spin was it
+
+82
+00:15:13,433 --> 00:15:19,750
+uh I'm going to adjust my game.
+
+83
+00:15:19,750 --> 00:15:29,600
+Game's kind of loud in my ears.
+
+84
+00:15:29,600 --> 00:15:32,399
+Thunder. Thunder.
+
+85
+00:15:40,716 --> 00:15:45,516
+There we go.
+
+86
+00:15:45,516 --> 00:15:49,100
+The sound card thing
+
+87
+00:15:56,000 --> 00:15:58,549
+It's Zero. I didn't get to see you in the other game.
+
+88
+00:15:58,549 --> 00:16:01,033
+Zero! Have you seen Sally anywhere?
+
+89
+00:16:06,233 --> 00:16:08,583
+Is something wrong, Jack? 
+
+
+90
+00:16:08,583 --> 00:16:09,483
+Is something wrong, Jack? 
+>> I like the.
+
+91
+00:16:09,483 --> 00:16:11,250
+No, everything's going great.
+
+92
+00:16:11,250 --> 00:16:13,866
+We're going to have the best Halloween ever.
+
+93
+00:16:13,866 --> 00:16:15,149
+>> I'd like to play it if I have time still
+
+94
+00:16:15,149 --> 00:16:17,500
+All we need now is your memory.
+
+95
+00:16:18,549 --> 00:16:22,366
+"Memory"? You mean this?
+
+96
+00:16:23,316 --> 00:16:27,433
+I haven't even played Luigi's Mansion 3 yet.
+I got to set some time aside
+
+97
+00:16:27,433 --> 00:16:34,083
+Jack, I have a bad feeling about this.
+Why don't you try something else? There's still time
+
+98
+00:16:34,083 --> 00:16:39,200
+Nothing could beat what I've got planned.
+Once we get the Heartless a Heart,
+
+99
+00:16:39,200 --> 00:16:45,750
+they'll dance just as I envision it.
+Trust me, you're going to love it.
+
+100
+00:18:01,599 --> 00:18:06,150
+Hurricane Blast.
+
+101
+00:18:06,150 --> 00:18:17,750
+Hopefully we uh get either level
+up with for AP or get a AP up.
+
+102
+00:18:17,750 --> 00:18:22,000
+This is how far the series has come. You
+really cannot change your party members
+
+103
+00:18:22,000 --> 00:18:29,349
+out unless you have a save point.
+You'll know that Kingdom Hearts 2,
+
+104
+00:18:29,349 --> 00:18:46,950
+you could change it anywhere long as
+I think you can even do it in battle.
+
+105
+00:18:46,950 --> 00:18:56,000
+Rock. Yeah. Barrel. Did you hear that? Yeah,
+I sure did. A heart. What should we do? Gosh,
+
+106
+00:18:56,000 --> 00:19:03,599
+you really are stupid. Isn't it
+obvious? Tell Oogie Boogie. Probably
+
+107
+00:19:03,599 --> 00:19:15,599
+not. That doesn't make much sense
+to be able to do it during battle.
+
+108
+00:19:17,200 --> 00:19:23,116
+I do want to see more of the Nightmare
+Before Christmas abuse revenge game. No,
+
+109
+00:19:23,116 --> 00:19:30,549
+I'll probably I need to set aside some time. Today
+is the 30th now. By the way, tonight is daylight
+
+110
+00:19:30,549 --> 00:19:41,033
+savings time, so at some point we will uh have a
+time change. Maybe during stream. I'm not planning
+
+111
+00:19:41,033 --> 00:19:49,650
+on doing anything other than Nightmare Before
+Christmas World tonight. So, yeah.
+
+112
+00:19:57,033 --> 00:20:01,666
+Another fix. Where's the Where's Where's the babbie?
+
+113
+00:20:02,883 --> 00:20:04,500
+Where's the little guy? 
+
+114
+00:20:06,316 --> 00:20:07,966
+There he is.
+
+115
+00:20:12,799 --> 00:20:22,316
+They're just misunderstood. Not bad. Thunder-era. Thundara. That's a gummi ship laser.
+
+116
+00:20:22,316 --> 00:20:30,150
+We still need We still need to actually change
+our gummy ship for final gummy ship uh routes.
+
+117
+00:20:30,150 --> 00:20:35,916
+Go back to the doctor. The doctor.
+
+118
+00:20:35,916 --> 00:20:49,750
+Doctor. Doctor. That's
+where we're going this time.
+
+119
+00:21:04,549 --> 00:21:12,483
+A heart? That bonehead jack is really
+making a heart? I'll be jigggered. That
+
+120
+00:21:12,483 --> 00:21:19,349
+works for me. Ohh, when I get my hands
+on that. Well, I've got no hands,
+
+121
+00:21:19,349 --> 00:21:25,716
+but I'm still going to nab that
+heart and control the Heartless. [laughter]
+
+122
+00:21:39,433 --> 00:21:46,000
+Find the mayor. He's at the um guillotine gate.
+
+123
+00:21:46,000 --> 00:21:58,549
+We have some artless. Uh, we'll
+skip that. We'll skip him this time.
+
+124
+00:21:58,549 --> 00:22:11,200
+No, actually, he's in a different location.
+That's where he shows up when you bleed the world.
+
+125
+00:22:29,033 --> 00:22:40,549
+Got to kill him here though, otherwise we
+can't uh use our reaction command thingy,
+
+126
+00:22:40,549 --> 00:22:46,549
+which originally reaction commands weren't
+on triangle for this game. They were on
+
+127
+00:22:46,549 --> 00:22:55,433
+um main menu, you know, the main command menu
+
+128
+00:22:55,433 --> 00:23:06,483
+the attack I believe prompt that was changed.
+
+129
+00:23:06,483 --> 00:23:17,116
+There are a lot of differences. PS2
+forget about like camera controls,
+
+130
+00:23:17,116 --> 00:23:21,200
+right? Wait,
+
+131
+00:23:21,200 --> 00:23:26,883
+the animation is real quick.
+
+132
+00:23:26,883 --> 00:23:34,549
+Maybe too quick. The game freeze.
+
+133
+00:23:34,549 --> 00:23:35,750
+Save often.
+
+134
+00:23:38,716 --> 00:23:45,683
+remember that. I wasn't expecting that to happen.
+
+135
+00:23:45,683 --> 00:23:52,950
+This is That's a little frustrating, is it? Uh,
+
+136
+00:23:52,950 --> 00:24:02,950
+can I switch it?
+
+137
+00:24:02,950 --> 00:24:05,733
+Oops. All problems, I guess tonight
+
+138
+00:24:17,200 --> 00:24:25,683
+Okay, I got to reboot the the
+game yet again. Yet again.
+
+139
+00:24:25,683 --> 00:24:30,150
+This time I'll make sure to save. We were
+right at the guillotine gate, too. We should've saved.
+
+140
+00:24:30,150 --> 00:24:43,183
+save. Glad I know that. That particular
+trigger uh that that scene change, freeze the game.
+
+141
+00:25:10,883 --> 00:25:12,133
+Not really.
+
+142
+00:25:31,750 --> 00:25:39,433
+Uh, Jack know any magic healing?
+Jack's basically another mage.
+
+143
+00:25:44,633 --> 00:25:49,450
+Heal us. More of a black mage.
+
+144
+00:26:14,799 --> 00:26:16,633
+Graveyard.
+
+
+145
+00:26:16,633 --> 00:26:17,783
+Graveyard.
+>> Come on.
+
+146
+00:26:21,283 --> 00:26:25,750
+Got on some experience here.
+
+147
+00:26:30,083 --> 00:26:35,599
+Check this place out too once the Heartless are out of the way.
+
+148
+00:26:56,083 --> 00:26:59,616
+Search light ghosts, uh, matter
+
+149
+00:27:27,799 --> 00:27:33,133
+That only lost only lost like five or ten.
+
+150
+00:27:43,599 --> 00:27:48,483
+Do you have to talk to the professor, doctor.
+
+151
+00:27:50,083 --> 00:27:55,650
+Skip doing that. Fade out. Probably probably.
+
+152
+00:28:01,916 --> 00:28:06,000
+Ah yes. Yeah yeah yeah.
+
+153
+00:28:06,000 --> 00:28:07,433
+Oogie cutscene
+
+154
+00:28:11,516 --> 00:28:16,816
+Yes, in terms of the Oogie's Revenge game, 
+I still haven't got
+
+155
+00:28:16,816 --> 00:28:21,966
+Basically I got as far as the YouTube video that we did
+
+156
+00:28:21,966 --> 00:28:27,683
+I haven't got any further than that. 
+I haven't played until uh
+
+157
+00:28:27,683 --> 00:28:33,299
+last weekend. No, yesterday. Yesterday.
+
+158
+00:28:33,299 --> 00:28:39,400
+Kill these Heartless, 
+and then make sure not to let the game freeze on us, huh.
+
+159
+00:28:40,049 --> 00:28:46,200
+I really wish, it would be great if they did have
+the savestates working
+
+160
+00:28:46,200 --> 00:28:48,000
+for all intenses, correctly
+
+161
+00:28:48,000 --> 00:28:52,133
+'Cause then I could do that, uh
+
+
+162
+00:28:52,133 --> 00:28:54,183
+use it as safety precaution
+
+163
+00:28:54,183 --> 00:28:57,116
+'cause it's a lot easier to do that than find a save point.
+
+164
+00:29:32,233 --> 00:29:35,733
+Just in case, I'm going to
+go ahead and go back and save
+
+165
+00:30:20,000 --> 00:30:28,799
+Good. It should work this bad.
+
+166
+00:30:28,799 --> 00:30:31,533
+Suppose it's not not a bad idea if I explain every
+
+167
+00:30:31,533 --> 00:30:34,433
+episode of this series.
+
+168
+00:30:34,433 --> 00:30:39,683
+We're doing the PS3 games so I can get the trophies,
+
+169
+00:30:39,683 --> 00:30:46,316
+but we're emulating it so we can have 60
+fps, which wasn't a thing on the PS3 game.
+
+170
+00:30:50,883 --> 00:30:53,599
+And in case you're if you're curious, yes,
+
+171
+00:30:53,599 --> 00:30:59,516
+that'll work because the last stream of this
+series, we'll do it on an actual console using
+
+172
+00:30:59,516 --> 00:31:05,916
+the same save file. We'll still get the
+trophy unlocks at the end of the game. Um,
+
+173
+00:31:05,916 --> 00:31:13,833
+I haven't tested that because that's a whole 15
+hours to go through. I don't want to do that.
+
+174
+00:31:18,933 --> 00:31:21,266
+"Check the tombstones."
+
+175
+00:31:23,750 --> 00:31:26,200
+Memorization game
+
+176
+00:31:42,183 --> 00:31:43,916
+♪ Doo-d-doo doo, dooo!
+
+177
+00:31:47,916 --> 00:31:50,733
+What happened?
+
+178
+00:31:50,733 --> 00:31:56,700
+Oh, that happened. Exploding pumpkins.
+
+179
+00:31:56,700 --> 00:32:00,299
+Is that a thing that Joker does from Batman?
+
+180
+00:32:03,283 --> 00:32:06,666
+Why does that sound familar? Exploding pumpkins.
+
+181
+00:32:13,683 --> 00:32:17,316
+I'm done here. Could have sworn there's more view
+
+182
+00:32:22,883 --> 00:32:25,616
+or am I thinking of a different room?
+
+183
+00:32:32,316 --> 00:32:37,833
+There's two exits here. Uh was
+this an entrance or an exit?
+
+184
+00:32:39,833 --> 00:32:44,150
+One goes one way, go one goes
+another way. I did it again.
+
+185
+00:32:44,150 --> 00:32:50,083
+Good thing we saved. See, that's why I did it.
+
+186
+00:32:50,083 --> 00:33:00,083
+Sorry if I was a bit quiet in comparison to the uh music
+
+187
+00:33:03,900 --> 00:33:13,016
+guys. Don't kill all the zombies
+for me, Jack. I appreciate it.
+
+188
+00:33:23,516 --> 00:33:32,549
+The search ghost really fit the
+level here. Not so much Monstro.
+
+189
+00:33:32,549 --> 00:33:40,000
+Guess they're like a parasite in that
+case. If you want to if you want to really
+
+190
+00:33:40,000 --> 00:33:42,516
+be creative
+
+191
+00:33:53,983 --> 00:33:59,033
+The jingle jingle
+
+192
+00:33:59,033 --> 00:34:02,516
+bojangle, nonsense
+
+193
+00:34:08,883 --> 00:34:11,849
+I almost got that wrong. Okay,
+
+194
+00:34:13,916 --> 00:34:16,883
+That should have been longer, Mayor
+
+195
+00:34:16,883 --> 00:34:25,116
+To be honest. Played a little
+bit more of a game with me.
+
+196
+00:34:25,116 --> 00:34:34,716
+This goes to the uh gravestones.
+Correct. That's where we want to go.
+
+197
+00:34:34,716 --> 00:34:39,066
+Then we can go to the doctor. Dr. Finkelstein.
+
+198
+00:35:16,400 --> 00:35:22,883
+There are a few secret chests in that area.
+I'll try to get them. Might be helpful.
+
+199
+00:35:33,199 --> 00:35:37,349
+There you go. This time it's sure to work.
+
+200
+00:36:03,283 --> 00:36:09,833
+there. Those little fool guns stealing my work.
+
+201
+00:36:09,833 --> 00:36:16,083
+Those seem to be working for OogieOogie Boogie.
+They're probably at Oogie's place right now.
+
+202
+00:36:20,633 --> 00:36:23,800
+Kids took off with the heart.
+
+203
+00:36:26,800 --> 00:36:34,949
+We lost them.
+
+204
+00:36:34,949 --> 00:36:40,716
+Zero. After them quick.
+
+205
+00:36:40,716 --> 00:36:43,683
+What you going to do?
+
+206
+00:36:46,716 --> 00:36:58,150
+Ghost dogs have teeth?
+
+207
+00:37:09,516 --> 00:37:13,916
+You know, I remember having
+this questioning myself who
+
+208
+00:37:13,916 --> 00:37:22,316
+it was really called Pumpkin Hill before.
+
+209
+00:37:22,316 --> 00:37:25,199
+What kind of appreciator of
+Nightmare for Christmas am I?
+
+210
+00:37:25,199 --> 00:37:27,599
+I can't even name all the locations of the film.
+
+211
+00:37:30,316 --> 00:37:51,583
+To be fair, they don't ever say it in the film, right
+
+212
+00:37:51,583 --> 00:37:56,949
+Gonna choose to believe that "Curly Hill" doesn't sound great, so it's not what it's called
+
+213
+00:38:14,949 --> 00:38:23,199
+I say appreciator cuz I'm not a big fan.
+I'm not a fan anyone Disney property
+
+214
+00:38:23,199 --> 00:38:26,716
+orator. I I I do like most of Pixar's work though,
+
+215
+00:38:26,716 --> 00:38:34,633
+but not enough to actually keep up with
+them. One of the first times he can't
+
+216
+00:38:34,633 --> 00:38:52,483
+control a camera here. Most games would show a
+camera with an X on it. You goes to the hill.
+
+217
+00:38:58,000 --> 00:39:11,849
+Stronger the attack, the more tech points
+you get, the more difficult it is to block.
+
+218
+00:39:11,849 --> 00:39:16,633
+Do that on a Shadow, you'd only get one.
+
+219
+00:39:47,783 --> 00:39:53,033
+Thanks for lighting the fire, Jack.
+
+220
+00:39:53,033 --> 00:39:59,516
+Save me some MP.
+
+221
+00:39:59,516 --> 00:40:03,633
+Jack-O'-Lanterns don't do
+anything other than explode though
+
+222
+00:40:03,633 --> 00:40:06,333
+They might give you magic [?]
+
+223
+00:40:13,616 --> 00:40:22,550
+Have to. No, we could just keep going. There's a Trinity down there.
+
+224
+00:40:22,550 --> 00:40:32,316
+Think it's a white one, so we can't do it. I
+would be wary of any way of freezing the game.
+
+225
+00:40:34,083 --> 00:40:43,750
+Okay, it is actually uh on access
+and we can kill everything.
+
+226
+00:40:43,750 --> 00:40:47,449
+Here I come. That's not what I wanted to do.
+
+227
+00:40:50,400 --> 00:40:55,683
+Here I come. Dead.
+
+228
+00:42:05,750 --> 00:42:07,750
+I might have actually been correct because I
+
+229
+00:42:07,750 --> 00:42:13,516
+don't know if you can examine that
+when there's enemies on the field.
+
+230
+00:42:13,516 --> 00:42:25,033
+Technicality, I am still correct.
+
+231
+00:42:28,716 --> 00:42:35,349
+Believe it or not, we're
+already going to Boogie's Manor.
+
+232
+00:42:35,349 --> 00:42:46,316
+Oh, well, that was the right idea.
+
+233
+00:42:46,316 --> 00:42:51,283
+I'll get Donald in here.
+
+234
+00:42:51,283 --> 00:42:53,683
+Boss fight.
+
+235
+00:42:56,400 --> 00:43:07,683
+Come on. Come on. There actually a shortcut
+here that'll get us back to the uh plaza.
+
+236
+00:43:07,683 --> 00:43:16,316
+Dead things up there. He dead still.
+
+237
+00:43:16,316 --> 00:43:27,433
+For puppies, probably. Nope. No puppies.
+Flare-G. I don't I don't know what that is
+
+238
+00:43:27,433 --> 00:43:30,000
+Might be a cannon actually.
+
+239
+00:43:44,233 --> 00:43:50,800
+as the guys in the Ugies revenge game said
+
+240
+00:43:50,800 --> 00:44:02,483
+or risk doing it again. Not
+want to risk doing it again.
+
+241
+00:44:02,483 --> 00:44:10,400
+That technically comes from
+the fountain somehow. Shortcut
+
+242
+00:44:10,400 --> 00:44:12,883
+to do this.
+
+243
+00:44:28,699 --> 00:44:37,683
+That low attack power.
+Sora really taking its toll. I want to kill things.
+
+244
+00:44:38,716 --> 00:44:52,633
+I want you to be uh gone.
+You're already dead. Undead.
+
+245
+00:44:52,633 --> 00:45:00,800
+Undead. Don't know what that means.
+How could something be undead?
+
+246
+00:45:00,800 --> 00:45:05,750
+Do this thrice or something nice.
+
+247
+00:45:13,116 --> 00:45:25,833
+more than thrice. Come on,
+Jack. Thought you liked rhymes.
+
+248
+00:45:25,833 --> 00:45:33,916
+Get to actually see inside of Jack's house.
+Inside of Jack's home in the revenge game.
+
+249
+00:45:35,116 --> 00:45:44,716
+That's real nice.
+
+250
+00:45:44,716 --> 00:45:50,150
+This isn't nice is I have
+to kill everything probably.
+
+251
+00:45:50,150 --> 00:46:00,000
+I see the uh menus pump can't do anything.
+
+252
+00:46:25,033 --> 00:46:28,316
+Guys are called Wight Knights. I
+don't even know what the word "wight" means.
+
+253
+00:46:28,316 --> 00:46:37,833
+W I G H T heard that word except for this game.
+
+254
+00:46:37,833 --> 00:46:44,233
+Come on. And these are of
+course gargoyles. Come on.
+
+255
+00:46:44,233 --> 00:46:51,116
+Actually acted as if they were gargoyless here.
+
+256
+00:46:51,116 --> 00:46:56,716
+One.
+
+257
+00:46:56,716 --> 00:47:18,633
+So, we didn't take it. So, there's no platform to
+ride. Two ways you can get back into this place.
+
+258
+00:47:18,633 --> 00:47:25,033
+Here I come. You can't. That is so evil.
+
+259
+00:47:28,949 --> 00:47:31,033
+At least I don't have to trigger all the
+
+260
+00:47:31,033 --> 00:47:43,199
+fights here. Get rid of the guys
+that aggroed us or aggroed on us.
+
+261
+00:47:47,833 --> 00:47:52,083
+I did not see um
+
+262
+00:48:23,833 --> 00:48:26,199
+Can skip here though.
+
+263
+00:48:39,683 --> 00:48:48,483
+Should actually just be skipping it. They say
+something. I knew Okie Boogie was behind this. FPS
+
+264
+00:48:48,483 --> 00:48:51,433
+won't break. And if
+
+265
+00:48:53,199 --> 00:48:59,683
+Okay, normally I would just fall off
+here and get everything below us.
+
+266
+00:48:59,683 --> 00:49:01,283
+There might be stuff down there. We're just
+
+267
+00:49:01,283 --> 00:49:12,233
+going to go beline for the door
+here. Can't open it right now.
+
+268
+00:49:18,233 --> 00:49:20,316
+Not the right move here.
+
+269
+00:49:29,750 --> 00:49:31,916
+Oh, Square knew exactly what they were doing.
+
+270
+00:49:31,916 --> 00:49:42,316
+The flying guys here. They want
+you to fall off. Ok, where now
+
+271
+00:49:42,316 --> 00:49:44,683
+over there
+
+272
+00:49:46,633 --> 00:49:53,199
+Nope. We didn't fall off really
+
+273
+00:49:53,199 --> 00:49:58,400
+action.
+
+274
+00:50:08,800 --> 00:50:16,800
+See how poor I am at killing
+things? Very slow at it.
+
+275
+00:50:18,550 --> 00:50:30,483
+We're not even the the last world yet. Oh well,
+more experience is good. How do I get back up?
+
+276
+00:50:30,483 --> 00:50:45,283
+Come on. Don't want to I don't want to fight you.
+Well, I guess I have to jump off to go back up.
+
+277
+00:50:45,283 --> 00:50:51,599
+I know. nonsensical, right?
+
+278
+00:50:51,599 --> 00:50:53,466
+Can I ride you?
+
+279
+00:50:56,550 --> 00:50:59,683
+Go away, you lose— durn
+
+280
+00:51:01,599 --> 00:51:02,699
+Oh
+
+281
+00:51:10,216 --> 00:51:12,733
+ Oh, thanks, guys.
+
+282
+00:51:14,949 --> 00:51:17,216
+Runaway bathtub
+
+283
+00:51:29,199 --> 00:51:34,550
+There's going to be another one.
+
+284
+00:51:34,550 --> 00:51:39,750
+See, we don't have Donald.
+
+285
+00:51:39,750 --> 00:51:44,316
+They didn't bring back trinities in
+the other games. Even though you can
+
+286
+00:51:44,316 --> 00:51:53,683
+switch your party members
+at any time out of battle,
+
+287
+00:51:53,683 --> 00:52:03,349
+I was just too late to switching.
+I knew that would do something.
+
+288
+00:52:03,349 --> 00:52:06,633
+Oh, brother.
+
+289
+00:52:22,150 --> 00:52:29,683
+I've had a a bit of a roller coaster
+weekend. Been a bit of a bit of a
+
+290
+00:52:29,683 --> 00:52:35,283
+wreck. I don't even know where I'm going
+now. Where where where are we going next?
+
+291
+00:52:37,683 --> 00:52:44,483
+Can't remember. Was it the uh
+
+292
+00:52:44,483 --> 00:52:56,400
+hill again?
+
+293
+00:53:07,916 --> 00:53:13,916
+I like goofy leveled up a long time ago.
+
+294
+00:53:13,916 --> 00:53:24,316
+Yikes. Oh, nervous.
+
+295
+00:53:24,316 --> 00:53:28,800
+Picking bathtub
+
+296
+00:53:28,800 --> 00:53:36,699
+crash the game. Thank you. I guess it is
+evil. Evil bathtub, right?
+
+297
+00:54:02,150 --> 00:54:09,916
+Thank you, Goofy. Going to swap
+out for Donald while we're here.
+
+298
+00:54:09,916 --> 00:54:14,233
+Shouldn't have to fight anything again. We know
+
+299
+00:54:14,233 --> 00:54:22,150
+this. All right. Right game.
+I'm going to go and change.
+
+300
+00:54:22,150 --> 00:54:25,833
+Oh my god. Yeah. Wait, you know what? These are
+
+301
+00:54:25,833 --> 00:54:34,233
+actually in this situation a
+bit faster. I would reckon.
+
+302
+00:54:34,233 --> 00:54:42,800
+Have that on my quick select. Stop spinning.
+
+303
+00:54:42,800 --> 00:54:49,199
+Even know what to use on you. Arrow. Oh.
+
+304
+00:54:57,433 --> 00:55:05,916
+spending to do uh to paint dominance.
+
+305
+00:55:05,916 --> 00:55:14,883
+Good. Bye-bye. Goodbye. Now
+
+306
+00:55:14,883 --> 00:55:22,150
+Oh, it's the other mushroom. Uh, I'll show them
+off a little bit. If you attack them too many
+
+307
+00:55:22,150 --> 00:55:32,883
+times, get poisoned. Also, you attack them too
+many times, they use that to become invincible
+
+308
+00:55:32,883 --> 00:55:39,349
+for a short amount of time.
+
+309
+00:55:39,349 --> 00:55:51,683
+I'm not sure if there's a trick to killing
+these guys to get special items or not. Couldn't
+
+310
+00:55:51,683 --> 00:56:01,516
+tell you to be honest.
+
+311
+00:56:01,516 --> 00:56:06,400
+Area is pretty as
+
+312
+00:56:06,400 --> 00:56:08,849
+a blow these up.
+
+313
+00:56:45,750 --> 00:56:50,949
+I knew Oogie Boogie was behind this.
+
+314
+00:56:57,683 --> 00:57:00,250
+Not fall off this time
+
+315
+00:57:26,949 --> 00:57:33,283
+See, it was a good idea to change
+our quick select fire lizards.
+
+316
+00:57:33,283 --> 00:57:40,066
+So easy. Got the ether I use back. Nice.
+
+317
+00:58:00,083 --> 00:58:10,633
+Where are these? Fire. This fire powered
+
+318
+00:58:10,633 --> 00:58:21,433
+camera.
+
+319
+00:58:25,283 --> 00:58:31,599
+Fire. Get out of my road, Gargoyle. Fire. See you.
+
+320
+00:58:37,033 --> 00:58:43,683
+that dove in Apu-style to save its friend.
+
+321
+00:58:43,683 --> 00:58:57,750
+Thunder. I guess the gargoyle is not white
+knights. Come on. The other kind of white knight.
+
+322
+00:59:00,800 --> 00:59:09,433
+It's a shortcut. I don't want to use that, but
+you can't use it, I think, in battle. They uh
+
+323
+00:59:09,433 --> 00:59:20,883
+wouldn't it be funny if I shrunk there and crashed
+the game? I actually didn't have it enabled.
+
+324
+00:59:20,883 --> 00:59:24,483
+Another chest.
+
+325
+00:59:28,333 --> 00:59:30,283
+Without glide though
+
+326
+00:59:38,400 --> 00:59:46,633
+Hey, kill these bad guys and let me open the chest.
+
+327
+00:59:46,633 --> 00:59:50,800
+I can't fall off here. fire. You
+know, with how my week's gone,
+
+328
+00:59:50,800 --> 00:59:59,283
+I should probably not say stuff because it
+might the opposite might end up happening.
+
+329
+00:59:59,283 --> 01:00:06,316
+Not a very good cage if we can't jump off here.
+
+330
+01:00:06,316 --> 01:00:10,550
+Not very safe
+
+331
+01:00:10,550 --> 01:00:15,266
+This place is, not very safe at all.
+
+332
+01:00:16,800 --> 01:00:22,949
+Oogie Boogie we're talking about here.
+
+333
+01:00:42,883 --> 01:00:52,800
+That one we can't get yet. You definitely
+can't get to that one quite yet. Okay,
+
+334
+01:00:52,800 --> 01:01:07,199
+the door will go through us to the boss. A mini
+boss. Bye-bye, white knight. Have a nice fall.
+
+335
+01:01:07,199 --> 01:01:13,916
+This is how eerie. How creepy. How bizarre.
+
+336
+01:01:17,599 --> 01:01:27,283
+They can just teleport as they fall off.
+
+337
+01:01:27,283 --> 01:01:40,316
+I have to leave the camera on.
+I got to go take get up here.
+
+338
+01:01:40,316 --> 01:01:48,083
+Sure. Notice chat message. Yeah, I don't
+have timestamps on these chat messages.
+
+339
+01:01:48,083 --> 01:01:53,116
+I wonder if I can enable that. That
+would also enable it on the overlay.
+
+340
+01:01:53,116 --> 01:02:08,316
+I don't want to see that. 4 days for
+first. Yeah, I I guess November is
+
+341
+01:02:08,316 --> 01:02:32,883
+having a new month happen. It's
+always refreshing. He's staring.
+
+342
+01:02:39,033 --> 01:02:46,800
+Sorry I missed your message
+
+343
+01:02:46,800 --> 01:02:56,800
+It does have a uh time stamp on
+the website. a little bit ago,
+
+344
+01:02:56,800 --> 01:03:00,083
+then
+
+345
+01:03:00,083 --> 01:03:07,833
+can't think of what would be in two two days.
+Check on Sonic's Sonic Frontiers. It's coming out
+
+346
+01:03:07,833 --> 01:03:17,599
+uh November 8th and so is God of War Ragnarok.
+
+347
+01:03:17,599 --> 01:03:26,233
+Anything on first? once.
+
+348
+01:03:26,233 --> 01:03:34,716
+All right, side the mansion now.
+
+349
+01:03:34,716 --> 01:03:49,916
+Chasing down these little brats kids causing
+trouble and following down these claws
+
+350
+01:03:49,916 --> 01:04:04,483
+for all that.
+
+351
+01:04:04,483 --> 01:04:11,033
+I know exactly why I would miss messages on YouTube, because
+
+352
+01:04:11,033 --> 01:04:17,533
+this window was... overlapping the chat. I could fix that though.
+
+353
+01:04:20,083 --> 01:04:32,233
+Handy hot key to set some boys on top.
+Very useful. Just type of thing to use it.
+
+354
+01:04:32,233 --> 01:04:33,199
+Oop!
+
+355
+01:04:36,883 --> 01:04:41,283
+No voice acting. Yeah, they don't say much in this game. 
+
+356
+01:04:41,283 --> 01:04:44,633
+I think they've said their own dialogue here.
+
+357
+01:05:28,083 --> 01:05:30,516
+Can you name the three kids?
+
+
+358
+01:05:30,516 --> 01:05:32,716
+Can you name the three kids?
+>> You're in for it now.
+
+359
+01:05:33,050 --> 01:05:39,633
+Lock, Shock, and Barrel. I think Barrel is the short guy.
+
+360
+01:05:42,550 --> 01:05:45,216
+Shock.
+
+361
+01:05:48,883 --> 01:05:51,699
+I'm gonna say Shock is the red devil guy
+
+
+362
+01:05:51,699 --> 01:05:57,833
+I'm gonna say Shock is the red devil guy
+>> I'll behave, I promise
+
+363
+01:06:07,283 --> 01:06:12,716
+What are you saying, kid? Fire.
+
+364
+01:06:15,599 --> 01:06:17,483
+I surrender!
+
+365
+01:06:18,783 --> 01:06:20,583
+Sorry.
+
+366
+01:06:49,033 --> 01:06:53,116
+Looking at it here, you have lock,
+shock, and barrel lined up. Probably
+
+367
+01:06:53,116 --> 01:07:04,633
+the girls lock. You think I'd memorize
+that because they they announced theelves?
+
+368
+01:07:04,633 --> 01:07:33,283
+I did not get it memorized. Seen the movie like
+four times now. I have any I don't have a memory.
+
+369
+01:07:33,283 --> 01:07:44,483
+So, I I think the plan is I want to just sit down,
+play some games, watch some movies before stream,
+
+370
+01:07:44,483 --> 01:07:53,750
+but it's going to be a stream tomorrow
+featuring another skeleton dude.
+
+371
+01:07:53,750 --> 01:08:02,150
+Tonight we had skeleton Jack the Pumpkin King
+
+372
+01:08:02,150 --> 01:08:09,516
+tomorrow. We're going to have Sir Daniel
+Portiscu in Medieval for the PlayStation
+
+373
+01:08:09,516 --> 01:08:22,149
+4. That'll be fun. I want to continue my save
+file that I have for that. Uh I think I left off
+
+374
+01:08:22,149 --> 01:08:30,399
+I want to say the antill.
+
+375
+01:08:30,399 --> 01:08:34,399
+There is a level of ant hills
+in it. I think that's where I
+
+376
+01:08:34,399 --> 01:08:50,483
+left off at a quarter through the
+game. I think third or quarter go.
+
+377
+01:08:50,483 --> 01:08:55,916
+What lever? Pull the lever. Crump.
+
+378
+01:08:55,916 --> 01:08:57,833
+This lever?
+
+379
+01:09:06,483 --> 01:09:10,949
+You don't have the heart. Spooky has
+it. There's no way I'm going to let
+
+380
+01:09:10,949 --> 01:09:20,000
+you There's no way I'm going to let
+you take you to him. Take you to him.
+
+381
+01:09:20,000 --> 01:09:29,683
+Did that figure he has to? What's he
+going to do with the heart? Eats me.
+
+382
+01:09:29,683 --> 01:09:37,199
+Kind of a bully to Barrel, aren't I?
+
+383
+01:09:37,199 --> 01:09:48,483
+Poor kid. He's the guy He's the kid that
+just goes along with his friends like
+
+384
+01:09:48,483 --> 01:09:52,483
+because no one else will
+
+385
+01:09:52,483 --> 01:10:06,883
+I guess no one else will hang out with him or
+
+386
+01:10:06,883 --> 01:10:20,000
+supposed to be trick-or-treaters. Uh, attack it.
+
+387
+01:10:20,000 --> 01:10:27,033
+That's where they have all their traps and stuff.
+
+388
+01:10:27,033 --> 01:10:29,033
+I saved.
+

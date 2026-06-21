@@ -1,0 +1,6 @@
+[submodule "staging"]
+	path = staging
+	url = https://github.com/vingamer234/staging
+[submodule "projects"]
+	path = projects
+	url = https://github.com/vingamer234/projects

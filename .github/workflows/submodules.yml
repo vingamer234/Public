@@ -11,6 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
         with:
+          token: ${{ secrets.UPD_SUBMODULE }}
           submodules: true
       - name: Update submodules
         run: |

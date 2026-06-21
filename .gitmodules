@@ -1,8 +1,0 @@
-[submodule "staging"]
-	path = staging
-	url = https://github.com/vingamer234/staging.git
-	branch = main
-[submodule "episodes"]
-	path = episodes
-	url = https://github.com/vingamer234/episodes.git
-	branch = main

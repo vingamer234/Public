@@ -1,7 +1,7 @@
 ## [Monstro & Miscellany](https://youtu.be/BxKGN5XrZGw)
 
 Gummi Ships and a space whale, that's about it. See ya later (Donald)!  
-(Space lasers! A surprise tool that will help later.)
+(Space lasers! A surprise tool that will help us later.)
 
 / ‑ ‑ ‑ ‑ ‑  
 Follow me on Bluesky : https://bsky.app/profile/vingamergaming.bsky.social  

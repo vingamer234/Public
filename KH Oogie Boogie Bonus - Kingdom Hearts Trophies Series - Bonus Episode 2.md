@@ -23,7 +23,7 @@ https://youtu.be/yln2hcUmI0o
 Videos edited and created by vingamer's Gaming.  
 Commentary and gameplay by Andrea. (she/they)
 
-This part of the Kingdom Hearts Stream Series was originally streamed on October 29th, 2022.
+This part of the Kingdom Hearts Stream Series was originally streamed on October 30th, 2022.
 
 *Kingdom Hearts HD 1.5 Remix* (2013) video game developed by Square Enix for PS3.  
 Game compilations also available on PlayStation, Xbox, and PC. (Epic Games Store / Steam)
